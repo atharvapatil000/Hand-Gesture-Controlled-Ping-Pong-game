@@ -1,6 +1,6 @@
 # Hand-Gesture-Controlled-Ping-Pong-game
 
-# HAND GESTURES
+# HAND GESTURES CODE (hand gestures.py)
 
 
 ![Rectangle](https://user-images.githubusercontent.com/67380886/113131801-48f9fa80-923b-11eb-87be-e998e8755684.png)
@@ -23,4 +23,14 @@
 
 ![Contour_area](https://user-images.githubusercontent.com/67380886/113132384-0258d000-923c-11eb-81f8-e1c82601df42.png)
 # Maximum Contour Area
+
+![Defect](https://user-images.githubusercontent.com/67380886/113132753-81e69f00-923c-11eb-8506-825f28263dbe.png)
+![Defect1](https://user-images.githubusercontent.com/67380886/113132756-827f3580-923c-11eb-9c84-52652c1b59fb.png)
+# Convexity Defects
+
+# PING PONG GAME
+
+![blank](https://user-images.githubusercontent.com/67380886/113133320-2537b400-923d-11eb-874f-d2d992b108e2.png)
+![ORIGIN](https://user-images.githubusercontent.com/67380886/113133312-236df080-923d-11eb-9b8f-840ebbc9cf07.png)
+![2screen](https://user-images.githubusercontent.com/67380886/113133317-249f1d80-923d-11eb-8169-8644a8e7841b.png)
 
