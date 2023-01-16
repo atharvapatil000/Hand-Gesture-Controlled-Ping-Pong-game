@@ -45,4 +45,4 @@
 
 # HAND GESTURE CONTROLLED PING PONG GAME (finalpart.py)
 
-After writing the code for Hand gestures and Ping pong game we add functionality to the player paddle by moving the paddle up with my two fingers are open and others are closed and we move the paddle down when my three fingers are open and others are closed
+Finally, we combine the above mentioned two files into a single file, so that we could give a functionality to the paddles in such a way that the player paddle would move up of two fingers are opened and it would move down if three fingers are opened
