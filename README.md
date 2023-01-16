@@ -45,4 +45,4 @@
 
 # HAND GESTURE CONTROLLED PING PONG GAME (finalpart.py)
 
-Finally, we combine the above mentioned two files into a single file, so that we could give a functionality to the paddles in such a way that the player paddle would move up of two fingers are opened and it would move down if three fingers are opened
+Finally, we combine the above mentioned two files into a single file, so that we could give a functionality to the paddles in such a way that the player paddle would move up if two fingers are open and it would move down if three fingers are open.
